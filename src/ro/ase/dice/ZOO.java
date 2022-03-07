@@ -1,4 +1,4 @@
-package ro.ase.dice.clase;
+package ro.ase.dice;
 
 import java.util.ArrayList;
 import java.util.List;

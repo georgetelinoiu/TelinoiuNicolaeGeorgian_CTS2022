@@ -1,4 +1,4 @@
-package ro.ase.dice.clase;
+package ro.ase.dice;
 
 public abstract class Animal {
     private String nume;
